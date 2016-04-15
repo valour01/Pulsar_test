@@ -1,0 +1,3 @@
+HTTP/1.1%09User-Agent%3a google.com%09Accept%3a curl/7.35.0%09Host%3a Host%3a%09google.com Accept%3a%09*/* /%09HTTP/1.1 User-Agent%3a%09curl/7.35.0 GET%09/
+
+GET%09/ Host%3a%09google.com google.com%09Accept%3a curl/7.35.0%09Host%3a HTTP/1.1%09User-Agent%3a User-Agent%3a%09curl/7.35.0 /%09HTTP/1.1 Accept%3a%09*/*

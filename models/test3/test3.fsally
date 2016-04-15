@@ -1,0 +1,3 @@
+HTTP/1.1%09User-Agent%3a linux.chinaunix.net%09Accept%3a curl/7.35.0%09Host%3a Accept%3a%09*/* Host%3a%09linux.chinaunix.net /%09HTTP/1.1 User-Agent%3a%09curl/7.35.0 GET%09/
+
+GET%09/ Host%3a%09linux.chinaunix.net HTTP/1.1%09User-Agent%3a curl/7.35.0%09Host%3a User-Agent%3a%09curl/7.35.0 linux.chinaunix.net%09Accept%3a /%09HTTP/1.1 Accept%3a%09*/*
